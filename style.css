@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.modi{
+    margin-left:  20vw;
+    border-radius: 10px ;
+}
+.bdn{
+    height: 50px;
+    width: 50px;
+    background-color: aquamarine;
+    margin:10px 20px ;
+}
+.bdn:hover{
+background-color: #c51515;
+/* height: 100px;
+width: 100px; */
+font-size: 20px;
+}
